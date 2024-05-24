@@ -1,0 +1,27 @@
+.main
+{
+    background-color: bisque;
+}
+.thead
+{
+    background-color: rgb(75, 151, 123);
+    border-color: black
+}
+.table
+{
+    width: 75%;
+    border-style: ridge;
+}
+#tside
+{
+    background-color: rgb(75, 151, 123); 
+}
+.maintable
+{
+    /* border-style: outset; */
+    border-bottom-style: ridge;
+}
+.main1
+{
+    text-decoration:underline;
+}
